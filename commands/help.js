@@ -33,7 +33,7 @@ module.exports = {
 
       const embed = new EmbedBuilder()
          .setColor('#0099ff')
-      .setTitle('💎 Prime Music Bot')
+      .setTitle('💎 LEGIONS MUSICO')
       .setDescription('Welcome to the Music Bot!\n\n- Here are the available commands:\n\n' +
         '**/play :** Start playing the songs.\n' +
         '**/ping :** check bot latency.\n' +
